@@ -1,4 +1,4 @@
-### Git practice commands
+## Git practice commands
 
 step 1: git init ----initializing readme.md file 
 after init check status using below command 
